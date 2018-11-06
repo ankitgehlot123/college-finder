@@ -1,0 +1,26 @@
+{
+  "name": "College-Finder",
+  "short_name": "CF",
+  
+  "icons": [
+    {
+      "src": "images/1.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/2.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/3.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}

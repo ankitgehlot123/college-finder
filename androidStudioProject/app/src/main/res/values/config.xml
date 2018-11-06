@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Watson Conversation Service Credentials --> 
+    <string name="workspace_id">24b6b1ab-0205-42b5-83d9-380f70651aa1</string> 
+    <string name="conversation_username">5abbd0f6-b57a-45cd-8e55-b468d3a760a4</string> 
+    <string name="conversation_password">VMyNdrfXEIqV</string>  
+
+    <!--Watson Speech-To-Text Service Credentials--> 
+    <string name="STT_username">cfe8463c-8f4c-47e4-a033-a005c3843eab</string> 
+    <string name="STT_password">jptN8Y0TtpZg</string>  
+
+    <!--Watson Text-To-Speech Service Credentials--> 
+    <string name="TTS_username">6781e2ad-2ce1-4674-974a-286c343e0aaa</string>  
+    <string name="TTS_password">lTCIFjsU4i5u</string>
+
+    <!--Bluemix Mobile Analytics--> 
+    <string name="mobileanalytics_apikey">5bc78043-759d-4e52-9355-861b406bdaef</string>
+</resources>
